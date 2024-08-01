@@ -1,0 +1,19 @@
+{
+  "gitSyncId": "66ab8dec37b91217e05f8ec2_a6b5a216-b8f3-446a-b3a6-6a15e07a30bf",
+  "id": "Page1_QueryModule12",
+  "moduleUUID": "0c608671-a13a-4109-8082-5d310023e232",
+  "packageUUID": "a6ec26ae-62a5-4626-a617-bf9e99183083",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "limit": "34"
+    },
+    "moduleInputs": {
+      "hvwvpablob": {}
+    },
+    "name": "QueryModule12",
+    "pageId": "Page1",
+    "version": "0.0.2"
+  }
+}
