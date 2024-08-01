@@ -6,11 +6,7 @@
   "type": "JS_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {
-      "getUsers": "[]",
-      "myFun1": "[]",
-      "myFun2": "[]"
-    },
+    "inputs": {},
     "moduleInputs": {
       "alpsilyoop": {},
       "ccrrkswtps": {},
@@ -18,6 +14,6 @@
     },
     "name": "JSModule21",
     "pageId": "Page1",
-    "version": "0.0.2"
+    "version": "0.0.4"
   }
 }
